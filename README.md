@@ -3,25 +3,10 @@
 
 ## Table of Contents
 
-- [Introduction](#Introduction)
 - [Getting Started](#getting-started)
 - [Data Sources and Connections](#data-sources-and-connections)
 - [Data Model](#data-model)
-- [Report Layout and Design](#report-layout-and-design)
-- [Creating and Using Measures](#creating-and-using-measures)
-- [Usage and Interactivity](#usage-and-interactivity)
-- [Troubleshooting](#troubleshooting)
-- [Customization](#customization)
-- [Contributing](#contributing)
 - [References](#references)
-- [Author and Contact Information](#author-and-contact-information)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Version History](#version-history)
-
-## Introduction
-
-Welcome to the Power BI project! This README provides an overview of the project, including how to use, customize, and contribute to it.
 
 ## Getting Started
 
@@ -37,14 +22,13 @@ Before you begin, ensure you have the following:
 ## Data Sources and Connections
 
 This project connects to the following data sources:
-- [List the data sources and provide any access details or credentials.]
+- There is an Excel File named EcoPower Logistic, and project 2 API end points
 
 To set up data connections in Power BI:
 - Open Power BI Desktop.
 - Go to 'Home' > 'Get Data' to connect to your data sources.
-- [Include any specific configuration steps or considerations.]
 
 ## Data Model
 
 The data model in this project consists of the following tables:
-- [List the tables and their relationships.]
+![erd](https://github.com/OKGaosenkwe/CMPG-323-Project-5-29065038/assets/92356409/3849db3e-fa5a-4a14-80b0-209833336198)
