@@ -32,3 +32,6 @@ To set up data connections in Power BI:
 
 The data model in this project consists of the following tables:
 ![erd](https://github.com/OKGaosenkwe/CMPG-323-Project-5-29065038/assets/92356409/3849db3e-fa5a-4a14-80b0-209833336198)
+
+## References
+[ReferencesProject5.pdf](https://github.com/OKGaosenkwe/CMPG-323-Project-5-29065038/files/13179719/ReferencesProject5.pdf)
